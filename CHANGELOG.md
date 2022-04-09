@@ -1,3 +1,2 @@
 ## 0.0.1
-
-* TODO: Describe initial release.
+* add first custom horizontal listview which support snappinp scroll behaviour
